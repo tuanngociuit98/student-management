@@ -1,0 +1,7 @@
+
+{
+    "mongoURI":"mongodb+srv://TuanNgoc:tuanngoc123@tuanngoc.xp7sp.mongodb.net/TuanNgoc?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githupClientid":"b4931b073f831102dc9f",
+    "githupSecret":"5c62ee0b5ebeea147baff442bcdfca5253927cc0"
+}
